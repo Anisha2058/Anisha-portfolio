@@ -1,11 +1,10 @@
 # UX Case Study
 
-I am learning UX design using Figma.  
-This folder will include my research, wireframes, and design concepts.
+I am learning UX design using Figma.
 
-## Case Study (Coming Soon):
+## What This Case Study Will Include
 - Problem statement
-- Target users
+- Target user research
 - User journey map
-- Wireframes
-- High-fidelity screens
+- Low-fidelity wireframes
+- High-fidelity UI designs
